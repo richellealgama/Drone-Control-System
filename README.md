@@ -55,7 +55,7 @@ Books:
 "Mastering ROS for Robotics Programming" by Lentin Joseph.
 Online Guides and Tutorials:
 
-edx Course on Drone Systems: https://www.edx.org/course/autonomous-navigation-for-flying-robots
+edx Course on Drones: https://www.edx.org/course/autonomous-navigation-for-flying-robots
 Ardupilot documentation: https://ardupilot.org/
 PX4 User Guide: https://docs.px4.io/
 DroneKit documentation: https://dronekit-python.readthedocs.io/
